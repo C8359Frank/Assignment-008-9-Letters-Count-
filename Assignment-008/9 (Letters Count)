@@ -1,1 +1,4 @@
-
+from collections import Counter
+print(Counter('mefete'))
+--------------------------
+Counter({'e': 3, 'm': 1, 'f': 1, 't': 1})
